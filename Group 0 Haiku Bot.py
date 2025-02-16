@@ -117,5 +117,3 @@ for submission in reddit.subreddit("maine").hot(limit = 100):
 
                     #call the function to send the haiku
                     send_to_discord(haiku_message)
-                    #to stop the program from re-running and finding same Haiku
-                    
