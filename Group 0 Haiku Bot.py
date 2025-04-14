@@ -13,7 +13,7 @@ import requests
 import json
 
 #discord webhook
-WEBHOOK_URL = "https://discord.com/api/webhooks/1340337023432654958/mfKWYA4_xljoUAmiXELXRi14CXJZpuyf6ohn3msJArLjahNi96xrxuNfammRUqnaxFQG"
+WEBHOOK_URL = "WEBHOOK URL GOES HERE"
 
 
 reddit = praw.Reddit (
